@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Johne333",
+      "lastName": "Doe",
+      "email": "john@example.com",
+      "status": "active",
+      "dob": "1990-01-01"
+    },
+    {
+      "id": "E6zYILB",
+      "firstName": "Joseph",
+      "lastName": "Atallah",
+      "email": "joeatallah16@gmail.com",
+      "status": "active",
+      "dob": "2000-11-11"
+    }
+  ]
+}
